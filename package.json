@@ -2,7 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://THAKURVAISHU.github.io/dashboard",
+  "homepage": "https://THAKURVAISHU.github.io/react-dash",
   "dependencies": {
     "@canvasjs/react-charts": "^1.0.0",
     "@emotion/react": "^11.11.1",
